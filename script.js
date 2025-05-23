@@ -3,7 +3,7 @@ let clicked = false;
 const downloadBtn = document.getElementById("downloadBtn");
 const customAlert = document.getElementById("customAlert");
 
-function showAlert(message, duration = 2000) {
+function showAlert(message, duration = 5000) {
   customAlert.textContent = message;
   customAlert.classList.add("show");
 
