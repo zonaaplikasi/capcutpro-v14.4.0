@@ -19,7 +19,7 @@ downloadBtn.addEventListener("click", function (e) {
     showAlert("Silakan tutup iklan dan klik lagi tombol download", 2000);
 
     setTimeout(() => {
-      window.open("https://adsterra.com/redirect123", "_blank");
+      window.open("https://www.profitableratecpm.com/msqwjv75bt?key=c8ff7a466c958bdd3d4115d429c62f3e", "_blank");
     }, 2100); // buka tab baru setelah alert selesai (sedikit delay)
 
     clicked = true;
